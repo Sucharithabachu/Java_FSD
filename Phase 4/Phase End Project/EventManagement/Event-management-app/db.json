@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "Riya",
+      "lastName": "Cassandra",
+      "email": "Johnny@gmail.com",
+      "mobile": "11111111111",
+      "salary": "528648"
+    },
+    {
+      "id": 2,
+      "firstName": "Cherry",
+      "lastName": "XYZ",
+      "email": "cherry@gmail.com",
+      "mobile": "222222222",
+      "salary": "456789"
+    },
+    {
+      "id": 4,
+      "firstName": "Sucharitha",
+      "lastName": "Bachu",
+      "email": "asdfg@gmail.com",
+      "mobile": "741852963",
+      "salary": "951752/"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
