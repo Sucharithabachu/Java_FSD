@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-03T16:20:24 IST" name="Suite" finished-at="2022-10-03T16:21:01 IST" duration-ms="36545">
+    <groups>
+    </groups>
+    <test started-at="2022-10-03T16:20:24 IST" name="Test" finished-at="2022-10-03T16:21:01 IST" duration-ms="36545">
+      <class name="com.simplilearn.proj2.Facebooklogin">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.simplilearn.proj2.Facebooklogin@52f27fbd]" started-at="2022-10-03T16:20:24 IST" name="beforeMethod" finished-at="2022-10-03T16:20:29 IST" duration-ms="5261" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="facebook()[pri:0, instance:com.simplilearn.proj2.Facebooklogin@52f27fbd]" started-at="2022-10-03T16:20:29 IST" name="facebook" finished-at="2022-10-03T16:20:42 IST" duration-ms="12971" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- facebook -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.simplilearn.proj2.Facebooklogin@52f27fbd]" started-at="2022-10-03T16:20:42 IST" name="afterMethod" finished-at="2022-10-03T16:20:42 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.simplilearn.proj2.Facebooklogin -->
+      <class name="com.simplilearn.proj2.AssertionTest">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.simplilearn.proj2.AssertionTest@4b8d604b]" started-at="2022-10-03T16:20:42 IST" name="beforeMethod" finished-at="2022-10-03T16:20:48 IST" duration-ms="5293" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="TitleTest()[pri:0, instance:com.simplilearn.proj2.AssertionTest@4b8d604b]" started-at="2022-10-03T16:20:48 IST" name="TitleTest" finished-at="2022-10-03T16:21:01 IST" duration-ms="12971" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TitleTest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.simplilearn.proj2.AssertionTest@4b8d604b]" started-at="2022-10-03T16:21:01 IST" name="afterMethod" finished-at="2022-10-03T16:21:01 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.simplilearn.proj2.AssertionTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
