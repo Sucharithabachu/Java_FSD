@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-11T15:32:41 IST" name="Suite" finished-at="2022-10-11T15:34:10 IST" duration-ms="89135">
+    <groups>
+    </groups>
+    <test started-at="2022-10-11T15:32:41 IST" name="Test" finished-at="2022-10-11T15:34:10 IST" duration-ms="89135">
+      <class name="com.simplilearn.testng.Flipkart">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.simplilearn.testng.Flipkart@11f0a5a1]" started-at="2022-10-11T15:32:41 IST" name="beforeMethod" finished-at="2022-10-11T15:33:00 IST" duration-ms="18858" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="flipkart()[pri:0, instance:com.simplilearn.testng.Flipkart@11f0a5a1]" started-at="2022-10-11T15:33:00 IST" name="flipkart" finished-at="2022-10-11T15:34:10 IST" duration-ms="70214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flipkart -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.simplilearn.testng.Flipkart@11f0a5a1]" started-at="2022-10-11T15:34:10 IST" name="afterMethod" finished-at="2022-10-11T15:34:10 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.simplilearn.testng.Flipkart -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
