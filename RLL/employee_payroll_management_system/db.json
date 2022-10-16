@@ -1,18 +1,58 @@
 {
-  "signup": [
+  "login": [
     {
-      "id": 2,
+      "id": 1,
       "username": "Cherry",
       "pasword": "741852",
-      "role": "Admin"
+      "role": "admin"
     },
     {
-      "name": "Cherry",
-      "username": "suchi@gmail.com",
+      "id": 2,
+      "username": "senorita",
       "password": "74185",
+      "role": "user"
+    },
+    {
+      "id": 3,
+      "username": "Sona",
+      "pasword": "741852",
+      "role": "user"
+    },
+    {
+      "id": 4,
+      "username": "Nakul",
+      "pasword": "emp123",
+      "role": "admin"
+    },
+    {
+      "name": "",
+      "username": "Hemu",
+      "password": "758635",
+      "role": "admin",
+      "token": "",
+      "id": 5
+    },
+    {
+      "name": "",
+      "username": "Hemu",
+      "password": "758635",
       "role": "user",
       "token": "",
-      "id": 3
+      "id": 6
+    }
+  ],
+  "signup": [
+    {
+      "id": 1,
+      "username": "Hemu",
+      "pasword": "7589635",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "username": "Zen",
+      "pasword": "748596",
+      "role": "user"
     }
   ]
 }
