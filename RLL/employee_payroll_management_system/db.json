@@ -1,0 +1,18 @@
+{
+  "signup": [
+    {
+      "id": 2,
+      "username": "Cherry",
+      "pasword": "741852",
+      "role": "Admin"
+    },
+    {
+      "name": "Cherry",
+      "username": "suchi@gmail.com",
+      "password": "74185",
+      "role": "user",
+      "token": "",
+      "id": 3
+    }
+  ]
+}
