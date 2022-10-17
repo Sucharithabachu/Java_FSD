@@ -39,22 +39,6 @@
       "role": "user",
       "token": "",
       "id": 6
-    },
-    {
-      "name": "",
-      "username": "Nakul",
-      "password": "emp123",
-      "role": "admin",
-      "token": "",
-      "id": 7
-    },
-    {
-      "name": "",
-      "username": "Charitha",
-      "password": "13579",
-      "role": "admin",
-      "token": "",
-      "id": 8
     }
   ],
   "signup": [
@@ -69,14 +53,6 @@
       "username": "Zen",
       "pasword": "748596",
       "role": "user"
-    },
-    {
-      "name": "Charitha",
-      "username": "suchi@gmail.com",
-      "password": "13579",
-      "role": "user",
-      "token": "",
-      "id": 3
     }
   ]
 }

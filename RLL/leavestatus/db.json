@@ -1,0 +1,43 @@
+{"leavestatus":[  
+  {  
+    "id": 1,  
+    "employeeid":"789456",
+    "startdate":"05/08/2022"  ,
+    "enddate":"09/08/2022",
+    "reason":"Viral Fever",
+    "status":"Approved"
+  }, 
+  {  
+    "id": 2,  
+    "employeeid":"789859",
+    "startdate":"05/09/2022"  ,
+    "enddate":"10/09/2022",
+    "reason":"Viral Fever",
+    "status":"Approved"
+  }, 
+  {  
+    "id": 3,  
+    "employeeid":"789134",
+    "startdate":"05/07/2022"  ,
+    "enddate":"06/07/2022",
+    "reason":" One Day Leave",
+    "status":"Approved"
+  }, 
+  {  
+    "id": 4,  
+    "employeeid":"789456",
+    "startdate":"03/08/2022"  ,
+    "enddate":"09/12/2022",
+    "reason":"Maternity Leave",
+    "status":"Approved"
+  }, 
+  {  
+    "id": 5,  
+    "employeeid":"789456",
+    "startdate":"08/08/2022"  ,
+    "enddate":"09/09/2022",
+    "reason":"Long Leave",
+    "status":"Rejected"
+  }
+]  
+}
